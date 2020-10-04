@@ -10,7 +10,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
 
-echo $ij "
+echo $or "
 ╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%sFAJZUL BOFTEN
 ┃┈┈┈┣▅╋▅┫┃%s╲╲╲╲╲╲%s3 SCRIP TOOLS BERGUNA
 ┃┈┃┈╰━╰━━━━━━╮%s╲╲%s🔴NOTE RECODE
@@ -20,7 +20,7 @@ echo $ij "
 ╲┃┈┈┈┈╭━┳━━━━╯%s╲╲%s╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗ 🔓 :082271426251
 ╲┣━━━━━━┫%s╲╲╲╲╲╲╲%s║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝
 ╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%s╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩ "
-sleep
+sleep 10
 echo $cyan "🔓 MENGGINSTALL SERVER"
 sleep 20
 echo $cyan "🔓 MASUK "
