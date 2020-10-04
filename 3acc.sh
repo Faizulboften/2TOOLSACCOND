@@ -10,7 +10,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
 
-echo $me "
+echo $ij "
 ╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%sFAJZUL BOFTEN
 ┃┈┈┈┣▅╋▅┫┃%s╲╲╲╲╲╲%s3 SCRIP TOOLS BERGUNA
 ┃┈┃┈╰━╰━━━━━━╮%s╲╲%s🔴NOTE RECODE
@@ -20,11 +20,8 @@ echo $me "
 ╲┃┈┈┈┈╭━┳━━━━╯%s╲╲%s╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗ 🔓 :082271426251
 ╲┣━━━━━━┫%s╲╲╲╲╲╲╲%s║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝
 ╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%s╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩ "
-
-echo $or "
+sleep
 echo $cyan "🔓 MENGGINSTALL SERVER"
 sleep 20
 echo $cyan "🔓 MASUK "
-sleep 10
-
 termux-open https://soo.gd/qtNdP
